@@ -1,3 +1,3 @@
-FROM python:3.10-slim
+FROM python:3.13.0rc2-slim
 
 RUN pip install selenium
